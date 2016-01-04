@@ -67,7 +67,7 @@ try:
             
             print question
             
-            raw_input("> ")
+            raw_input("Explain the OOP Construct and/or hit Enter > ")
             print "Answer: %s\n\n" % answer
             
 except EOFError:
